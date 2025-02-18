@@ -1,4 +1,4 @@
-<p align="center"> # ✨ Kristina Donders ✨
+# ✨ Kristina Donders ✨
 ## Junior @ Binghamton University
 ### Statistics & Political Science double major, Digital and Data Studies minor
 
