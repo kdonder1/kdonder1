@@ -8,7 +8,7 @@ Passionate about problem-solving and gaining a worldly perspective.
 
 Lover of learning, collaborating, and all things winter.
 
-Classes spotlighted on this page:
+#### Classes spotlighted on this page:
 * CS 110 - Introduction to Python
 * DIDA 325 - Data & Society
 * DIDA 280D - Data Wrangling
