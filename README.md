@@ -1,6 +1,6 @@
 # ✨ Kristina Donders ✨
-### Statistics & Political Science double-major @ Binghamton University
-### Digital and Data Studies minor
+## Junior @ Binghamton University
+### Statistics & Political Science double major, Digital and Data Studies minor
 
 Aspiring data scientist. In the new digital age, I want to learn to interpret the ever-growing influx of data to promote the development of disadvantaged communities to create a more just and equitable society.
 
