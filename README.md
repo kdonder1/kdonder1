@@ -1,8 +1,8 @@
 # ✨ Kristina Donders ✨
-## Junior @ Binghamton University
-### Statistics & Political Science double major, Digital and Data Studies minor
+## Senior @ Binghamton University
+### Data Science & Statistics and Political Science double major, Digital and Data Studies minor
 
-Aspiring data scientist. In the new digital age, I want to learn to interpret the ever-growing influx of data to promote the development of disadvantaged communities to create a more just and equitable society.
+Aspiring product manager/data scientist passionate about using data to design people-focused, equitable solutions. Excited by opportunities to turn complex information into actionable insights that improve systems and empower communities.
 
 Passionate about problem-solving and gaining a worldly perspective.
 
@@ -11,7 +11,7 @@ Lover of learning, collaborating, and all things winter.
 #### Classes spotlighted on this page:
 * CS 110 - Introduction to Python
 * DIDA 325 - Data & Society
-* DIDA 280D - Data Wrangling
+* DIDA 340 - Intro to Deep Learning
 
 
 <!--
