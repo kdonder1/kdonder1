@@ -12,6 +12,7 @@ Lover of learning, collaborating, and all things winter.
 * CS 110 - Introduction to Python
 * DIDA 325 - Data & Society
 * DIDA 340 - Intro to Deep Learning
+* MATH 457 - Statistical Learning
 
 
 <!--
